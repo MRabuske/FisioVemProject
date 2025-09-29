@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte da disciplina de **Qualidade de Softwar
 | Nome | Função | GitHub | Responsabilidades |
 |------|--------|---------|-------------------|
 | Kevin | Líder do Projeto & Desenvolvedor Full-Stack | [@kevini78](https://github.com/kevini78) | Coordenação geral, arquitetura, desenvolvimento frontend/backend |
-
+| Matheus|
 > **Nota Acadêmica**: Este projeto foi desenvolvido individualmente para demonstrar conhecimento completo das tecnologias e conceitos de qualidade de software, com foco na aplicação prática da norma ISO/IEC 25010.
 
 ## 🚀 Tecnologias Utilizadas
