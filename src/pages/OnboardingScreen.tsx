@@ -13,19 +13,19 @@ const onboardingSteps: OnboardingStep[] = [
   {
     icon: Home,
     title: 'Atendimento Domiciliar',
-    description: 'Receba atendimento por um fisioterapeuta no conforto da sua casa, sem precisar se deslocar.',
+    description: 'Receba atendimento de um fisioterapeuta no conforto da sua casa, sem precisar se deslocar.',
     color: 'text-primary'
   },
   {
     icon: Shield,
     title: 'Profissionais Verificados',
-    description: 'Todos os fisioterapeutas são certificados e passam por rigorosa verificação de credenciais.',
+    description: 'Todos os fisioterapeutas são certificados e passam por uma rigorosa verificação de credenciais.',
     color: 'text-accent'
   },
   {
     icon: Clock,
     title: 'Agendamento Flexível',
-    description: 'Escolha o horário que melhor se adequa à sua rotina, incluindo fins de semana.',
+    description: 'Escolha o dia e horário que melhor se adequam à sua rotina, incluindo fins de semana.',
     color: 'text-success'
   }
 ];

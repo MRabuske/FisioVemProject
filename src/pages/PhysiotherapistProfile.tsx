@@ -235,7 +235,7 @@ export const PhysiotherapistProfile = ({
                       </div>
                     </div>
                     <p className="text-sm text-muted-foreground mb-1">
-                      "Excelente profissional! Muito atenciosa e competente. O atendimento domiciliar foi perfeito."
+                      "Excelente profissional! Muito atenciosa e competente. O atendimento foi perfeito."
                     </p>
                     <span className="text-xs text-muted-foreground">Há 2 dias</span>
                   </div>
@@ -259,7 +259,7 @@ export const PhysiotherapistProfile = ({
                       </div>
                     </div>
                     <p className="text-sm text-muted-foreground mb-1">
-                      "Profissional muito qualificada. Os exercícios recomendados me ajudaram muito na recuperação."
+                      "Profissional muito qualificada. Os exercícios realizados me ajudaram muito na recuperação."
                     </p>
                     <span className="text-xs text-muted-foreground">Há 1 semana</span>
                   </div>

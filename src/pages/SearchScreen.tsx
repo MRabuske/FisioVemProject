@@ -6,7 +6,7 @@ import { Card } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { PhysiotherapistCard } from '@/components/ui/PhysiotherapistCard';
 import { MobileLayout } from '@/components/Layout/MobileLayout';
-import { physiotherapists, specialties } from '@/data/mockData';
+import { mockPhysiotherapists, specialties } from '@/data/mockData';
 
 export const SearchScreen = () => {
   const [searchTerm, setSearchTerm] = useState('');
@@ -14,7 +14,7 @@ export const SearchScreen = () => {
   const [showFilters, setShowFilters] = useState(false);
 
   // Filtrar fisioterapeutas baseado na busca e especialidade
-  const filteredPhysiotherapists = physiotherapists.filter(physio => {
+  const filteredPhysiotherapists = mockPhysiotherapists.filter(physio => {
     const matchesSearch = searchTerm === '' || 
       physio.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
       physio.specialties.some(spec => spec.toLowerCase().includes(searchTerm.toLowerCase()));

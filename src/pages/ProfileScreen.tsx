@@ -28,7 +28,7 @@ const mockUser: UserProfile = {
   phone: '(11) 99999-9999',
   address: 'Rua das Flores, 123 - Vila Madalena, São Paulo',
   avatar: '/placeholder.svg',
-  memberSince: '2024-01-15',
+  memberSince: '2025-01-15',
   totalConsultations: 12,
   preferredSpecialties: ['Ortopedia', 'Neurologia']
 };

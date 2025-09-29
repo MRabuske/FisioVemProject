@@ -2,7 +2,7 @@
 
 ## 📋 Descrição do Projeto
 
-O **FisioVem** é uma aplicação mobile web desenvolvida para conectar pacientes com fisioterapeutas qualificados, oferecendo serviços de fisioterapia no conforto do domicílio. A plataforma permite agendamento de consultas, avaliação de profissionais e gestão completa do atendimento fisioterapêutico.
+O **FisioVem** é uma aplicação mobile web desenvolvida para auxiliar pacientes com dificuldades motoras e/ou que não possuem os meios de transporte necessários para direcionarem-se para clínicas especializadas, dando acesso à fisioterapeutas qualificados, oferecendo serviços de fisioterapia no conforto do domicílio. A plataforma permite agendamento de consultas, avaliação de profissionais e gestão completa do atendimento fisioterapêutico.
 
 Este projeto foi desenvolvido como parte da disciplina de **Qualidade de Software**, aplicando conceitos de controle de versão com Git/GitHub e implementando características de qualidade segundo a norma ISO/IEC 25010.
 
@@ -11,8 +11,8 @@ Este projeto foi desenvolvido como parte da disciplina de **Qualidade de Softwar
 | Nome | Função | GitHub | Responsabilidades |
 |------|--------|---------|-------------------|
 | Kevin | Líder do Projeto & Desenvolvedor Full-Stack | [@kevini78](https://github.com/kevini78) | Coordenação geral, arquitetura, desenvolvimento frontend/backend |
-| Matheus| Testador do Código & Responsável pela Manutenção|[@MRabuske] (https://github.com/MRabuske)| Manutenção geral, editor e testador de funcionalidades |
-> **Nota Acadêmica**: Este projeto foi desenvolvido individualmente para demonstrar conhecimento completo das tecnologias e conceitos de qualidade de software, com foco na aplicação prática da norma ISO/IEC 25010.
+| Matheus| Testador do Código & Responsável pela Manutenção|[@MRabuske](https://github.com/MRabuske)| Manutenção geral, editor e testador de funcionalidades |
+> **Nota Acadêmica**: Este projeto foi desenvolvido para demonstrar conhecimento completo das tecnologias e conceitos de qualidade de software, com foco na aplicação prática da norma ISO/IEC 25010.
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -330,11 +330,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Equipe FisioVem**
 - Email: contato@fisiovem.com
 - GitHub: [@kevini78](https://github.com/kevini78)
-
+- GitHub: [@MRabuske](https://github.com/MRabuske)
 ---
 
 **Desenvolvido com ❤️ para a disciplina de Qualidade de Software**
 
-*Universidade: [Nome da Universidade]*
+*Universidade: Universidade Católica de Brasília*
 *Professor: MSc. Sybelle Nogueira*
-*Semestre: 2024.2*
+*Semestre: 2025.2*

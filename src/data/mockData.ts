@@ -25,7 +25,7 @@ export const mockPatients: Patient[] = [
     address: 'Av. Paulista, 456, São Paulo - SP',
     userType: 'patient',
     profileImage: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face',
-    medicalHistory: 'Dores nas costas crônicas',
+    medicalHistory: 'Dores crônicas nas costas',
     createdAt: new Date('2024-02-10'),
   }
 ];
@@ -53,7 +53,7 @@ export const mockPhysiotherapists: Physiotherapist[] = [
       { dayOfWeek: 5, startTime: '08:00', endTime: '17:00' }
     ],
     isVerified: true,
-    bio: 'Especialista em fisioterapia domiciliar com foco em idosos e pacientes em recuperação pós-operatória.',
+    bio: 'Especialista em tratamento fisioterapeutico com foco em idosos e pacientes em recuperação pós-operatória, Realizo atendimento domiciliar.',
     createdAt: new Date('2023-06-01'),
   },
   {
@@ -100,7 +100,7 @@ export const mockPhysiotherapists: Physiotherapist[] = [
       { dayOfWeek: 5, startTime: '07:00', endTime: '17:00' }
     ],
     isVerified: true,
-    bio: 'Neurofisioterapeuta com vasta experiência em reabilitação neurológica e atendimento domiciliar.',
+    bio: 'Neurofisioterapeuta com vasta experiência em reabilitação neurológica, Realizo atendimento domiciliar.',
     createdAt: new Date('2023-03-10'),
   }
 ];
